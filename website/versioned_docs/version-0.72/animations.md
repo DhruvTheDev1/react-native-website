@@ -75,7 +75,7 @@ export default () => {
 
 ```SnackPlayer ext=tsx
 import React, {useRef, useEffect} from 'react';
-import {Animated, Text, View, useAnimatedValue} from 'react-native';
+import {Animated, Text, View} from 'react-native';
 import type {PropsWithChildren} from 'react';
 import type {ViewStyle} from 'react-native';
 
